@@ -1,0 +1,7 @@
+{
+  "name": "MediScan AI Assistant",
+  "description": "A diagnostic support tool that analyzes symptoms and medical scans to provide potential health insights and structured treatment plans. Always consult a professional.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
